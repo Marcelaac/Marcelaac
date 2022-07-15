@@ -31,4 +31,4 @@
  
  ##
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/109323615/179144397-3b6ddaad-3afd-4168-8ede-5960ccbb1e92.gif)
