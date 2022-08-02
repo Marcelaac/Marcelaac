@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/marcela-anselmo-82b5a8174/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:marcelacdeveloper@gmail.com">
+  <a href="mailto:anselmomarcelaa@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" target="_blank">
  </a>
  </div>
